@@ -1,6 +1,6 @@
 <template>
   <div class="login">
-    <img src="../../assets/img/logo.png" alt="" class="loginImg">
+    <img src="https://miniprogram.xtow.net/icon.png" alt="" class="loginImg">
     <div class="Logincontent">
       <div class="title">申请获取以下权限</div>
       <div class="text">获得你的公开信息(昵称、头像等)</div>

@@ -23,7 +23,7 @@
       </div>
       <div href="#" class="item">
         <div class="value">{{ userInfo.reply_num }}</div>
-        <div class="key">回复</div>
+        <div class="key">已发</div>
       </div>
     </div>
 
